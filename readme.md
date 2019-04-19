@@ -1,0 +1,1 @@
+如果App中引入UserCenter module之后，App可以使用UserCenter的activity
