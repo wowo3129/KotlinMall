@@ -9,6 +9,7 @@
             android:theme="@style/AppTheme">
         <activity android:name=".ui.activtiy.RegisterActivity">
         </activity>
+        <activity android:name=".ui.activtiy.UcTestActivity"/>
     </application>
 
 </manifest>
