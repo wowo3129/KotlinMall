@@ -3,7 +3,7 @@ package com.kotlin.mall.ui.activity
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.kotlin.mall.R
-import com.kotlin.usercenter.ui.activtiy.UcTestActivity
+
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.singleTop
 import org.jetbrains.anko.startActivity
